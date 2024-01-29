@@ -1,0 +1,90 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Program Files\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Program Files\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>50</LINE></main>
+  <keyboard_int><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>246</LINE></keyboard_int>
+  <delay_2ms><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>600</LINE></delay_2ms>
+  <CMNDWRT><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>359</LINE></CMNDWRT>
+  <display_name><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>515</LINE></display_name>
+  <here><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>107</LINE></here>
+  <input><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>124</LINE></input>
+  <Operation><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>166</LINE></Operation>
+  <number_1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>146</LINE></number_1>
+  <number_2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>133</LINE></number_2>
+  <DATAWRT><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>379</LINE></DATAWRT>
+  <Initalize_1st><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>161</LINE></Initalize_1st>
+  <Compute><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>184</LINE></Compute>
+  <Clear_Cal><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>231</LINE></Clear_Cal>
+  <Addi><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>186</LINE></Addi>
+  <Subtract><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>192</LINE></Subtract>
+  <Multiply><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>198</LINE></Multiply>
+  <Divide><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>205</LINE></Divide>
+  <Equal><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>213</LINE></Equal>
+  <div8><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>497</LINE></div8>
+  <Display_Calculation><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>226</LINE></Display_Calculation>
+  <display_remainder><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>461</LINE></display_remainder>
+  <Result_display><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>402</LINE></Result_display>
+  <next0><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>260</LINE></next0>
+  <end><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>353</LINE></end>
+  <next1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>265</LINE></next1>
+  <next2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>270</LINE></next2>
+  <next3><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>275</LINE></next3>
+  <next4><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>280</LINE></next4>
+  <next5><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>285</LINE></next5>
+  <next6><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>290</LINE></next6>
+  <next7><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>295</LINE></next7>
+  <next8><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>300</LINE></next8>
+  <next9><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>307</LINE></next9>
+  <next10><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>315</LINE></next10>
+  <next11><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>323</LINE></next11>
+  <next12><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>331</LINE></next12>
+  <next13><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>339</LINE></next13>
+  <next14><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>347</LINE></next14>
+  <SDELAY><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>584</LINE></SDELAY>
+  <delay_100us><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>590</LINE></delay_100us>
+  <Result_x00><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>405</LINE></Result_x00>
+  <Result_0x0><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>422</LINE></Result_0x0>
+  <Result_00x><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>445</LINE></Result_00x>
+  <Return_no_display><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>492</LINE></Return_no_display>
+  <division><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>501</LINE></division>
+  <carry0><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>510</LINE></carry0>
+  <Display_1st><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>517</LINE></Display_1st>
+  <array1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>633</LINE></array1>
+  <Loop1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>523</LINE></Loop1>
+  <Display_2nd><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>530</LINE></Display_2nd>
+  <array2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>634</LINE></array2>
+  <Loop2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>536</LINE></Loop2>
+  <Out_display1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>543</LINE></Out_display1>
+  <delay_1s><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>621</LINE></delay_1s>
+  <Display_3rd><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>549</LINE></Display_3rd>
+  <array3><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>635</LINE></array3>
+  <Loop3><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>555</LINE></Loop3>
+  <Display_4th><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>562</LINE></Display_4th>
+  <array4><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>636</LINE></array4>
+  <Loop4><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>568</LINE></Loop4>
+  <Out_display2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>575</LINE></Out_display2>
+  <DR0><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>593</LINE></DR0>
+  <LDR0><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>603</LINE></LDR0>
+  <delay_200ms><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>610</LINE></delay_200ms>
+  <DR1><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>613</LINE></DR1>
+  <DR2><FILE>D:\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\DH\DH N3\Sem 2\MPS\Final_project\Final_project.asm</FILE><LINE>624</LINE></DR2>
+ </LABELS>
+</ASSEMBLER_INFO>
